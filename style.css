@@ -15,3 +15,10 @@ h1 {
 h2 {
     margin: 1rem 0 .5rem;
 }
+
+.contact {
+    margin: .1rem;
+    text-align: center;
+    font-weight: lighter;
+    font-size: 1rem;
+}
